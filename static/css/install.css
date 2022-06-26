@@ -1,0 +1,20 @@
+@charset "utf-8";
+/**
+ * 留言板安装程序的样式
+ */
+
+.chat-install-card {
+  padding: 15px 20px;
+  border-radius: 8px !important;
+}
+
+.chat-buttons-card {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.chat-buttons-card button {
+  margin-left: 10px;
+  border-radius: 8px !important;
+}

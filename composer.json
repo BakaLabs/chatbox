@@ -1,0 +1,12 @@
+{
+  "name": "bakalabs/chat",
+  "description": "一个简单的留言板 / MySQL 作业实践",
+  "homepage": "https://mysql-work-chat.baka.show",
+  "autoload": {
+    "psr-4": {
+      "Chat\\": "core/",
+      "ChatTheme\\": "theme/",
+      "ChatModule\\": "module/"
+    }
+  }
+}
